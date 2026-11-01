@@ -1,1 +1,1 @@
-pisense.rf.gd/main,jossor1.rf.gd/main
+jossor1.rf.gd/main,jossor2.rf.gd/main
